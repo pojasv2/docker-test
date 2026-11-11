@@ -1,6 +1,3 @@
--- Executado automaticamente pelo Postgres na PRIMEIRA inicialização
--- (somente quando o volume de dados está vazio).
-
 CREATE TABLE usuario (
     id        VARCHAR(20)   PRIMARY KEY,
     nome      VARCHAR(255) NOT NULL,
