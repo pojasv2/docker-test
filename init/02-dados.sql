@@ -1,5 +1,3 @@
--- Dados de exemplo (opcional)
-
 INSERT INTO usuario (nome, email, senha, username) VALUES
     ('Administrador', 'admin@exemplo.com', 'trocar_por_hash', 'admin');
 
